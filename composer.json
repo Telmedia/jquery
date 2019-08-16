@@ -1,0 +1,19 @@
+{
+  "name": "telmedia/jquery",
+  "description": "Compilation interne de jquery par Telmedia",
+  "license": "MIT",
+  "authors": [
+    {
+
+      "name": "Frédéric Duquesnoy",
+
+      "email": "fduquesnoy@telmedia.fr"
+
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Fk": "src/"
+    }
+  }
+}
